@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Live Site
 
-- Live Site URL: [Kibou Sushi](https://kibou-sushi.vercel.app/)
+- Live Site URL: https://reactsushi.vercel.app/
 
 
 ### Built with
