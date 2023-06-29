@@ -79,18 +79,7 @@ export default function Footer() {
                     © 2023 Kibou Sushi. All rights reserved.
                 </p>
                 <div className='footer__credits__container'>
-                    <p>
-                        <a href='https://github.com/ValentinaBS' className='footer__credits__github'>
-                            <RiGithubFill className='footer__credits__icon' />
-                            ValentinaBS
-                        </a>
-                    </p>
-                    <p>
-                        <a href='https://www.linkedin.com/in/valentina-belen-sanchez/' className='footer__credits__github'>
-                            <RiLinkedinBoxFill className='footer__credits__icon' />
-                            Valentina Belén Sánchez
-                        </a>
-                    </p>
+                    
                 </div>
             </section>
         </footer>
